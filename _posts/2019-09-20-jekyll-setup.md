@@ -44,5 +44,9 @@ tags:
 	![](/assets/img/jksetup/5.png)
 
 	Проходим все этапы по умолчанию 
-	![](/assets/img/jksetup/4.png) ![](/assets/img/jksetup/4.png)
-	![](/assets/img/jksetup/4.png) 
+	![](/assets/img/jksetup/6.png) ![](/assets/img/jksetup/7.png)
+	![](/assets/img/jksetup/8.png) ![](/assets/img/jksetup/9.png)
+	![](/assets/img/jksetup/10.png)
+
+	Запускаем _терминал_ Git Bash
+	![](/assets/img/jksetup/11.png)
